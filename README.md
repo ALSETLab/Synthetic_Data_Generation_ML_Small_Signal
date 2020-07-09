@@ -1,4 +1,4 @@
-Static Small-Signal Stability Assessment by Machine and Deep Learning Methods
+Synthetic Data Generation for ML-based Small-Signal Stability
 ================
 
 **Authors:** Sergio A. Dorado-Rojas, Marcelo de Castro Fernandes, Tetiana Bogodorova, Luigi Vanfretti
