@@ -25,7 +25,7 @@ This work presents a simulation-based massive data generation procedure with app
 
 ## Scalability
 
-Below, we provide a scalability analysis regarding how many scenarios can be generated for different system size. Since the main type of contingency studied is related to line openings, systems with more than 30 branches (such as the Nordic 44) were constrained to have a maximum of 5 simultaneous trippings (i.e., $$N-5$$). Below is a comparative chart illustrating how the number of scenarios increases for different systems.
+Below, we provide a scalability analysis of the contingency generation method regarding how many scenarios can be generated for different system size. Since the main type of contingency studied is related to line openings, systems with more than 30 branches (such as the Nordic 44) were constrained to have a maximum of 5 simultaneous trippings (i.e., $$N-5$$). Below is a comparative chart illustrating how the number of scenarios increases for different systems.
 
 | System  | Buses  | Number of States | Number of Variables | Number of Branches | Total Number of Scenarios | Generation Time |
 |---|---|---|---|---| --- | --- |
