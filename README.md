@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/271917441.svg)](https://zenodo.org/badge/latestdoi/271917441)
+
 Synthetic Data Generation for ML-based Small-Signal Stability Assessment
 ================
 **Authors:** Sergio A. Dorado-Rojas, Marcelo de Castro Fernandes, Luigi Vanfretti
